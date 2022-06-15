@@ -1,3 +1,1 @@
-hello
-world
-dolphin
+console.log("hello git.");
